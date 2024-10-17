@@ -2,6 +2,7 @@
 
 int main(){
 
-    std::cout<<"My name is Parth Bhatt";
+    std::cout<<"booom!";
     return 0;
+
 }
