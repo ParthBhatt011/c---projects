@@ -2,6 +2,7 @@
 
 int main(){
 
-    std::cout<<"My name is Parth Bhatt";
+int sum = 6;
+    std::cout<< sum;
     return 0;
 }
